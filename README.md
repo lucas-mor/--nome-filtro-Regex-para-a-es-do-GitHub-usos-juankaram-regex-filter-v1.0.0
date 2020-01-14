@@ -1,0 +1,1 @@
+# --nome-filtro-Regex-para-a-es-do-GitHub-usos-juankaram-regex-filter-v1.0.0
